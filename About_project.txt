@@ -1,0 +1,4 @@
+Amazon Clone
+
+** I will try to copy Amazon 
+***only fronted(HTML+CSS)**
